@@ -1,2 +1,3 @@
-# SAT-Questions
-SAT Questions from previous years to practice
+# College Pre Guides
+
+## SAT Questions
